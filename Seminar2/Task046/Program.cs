@@ -39,5 +39,4 @@ int[] array = CreatArrayRndInt(sizeArray, -10, 10);
 PrintArray(array);
 
 int[] copyPasteArray = CopyArray(array);
-//copyPasteArray[0] = 45;
 PrintArray(copyPasteArray);
